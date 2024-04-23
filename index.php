@@ -7,6 +7,8 @@
     <title>Prueba Ramas Github</title>
 </head>
 <body>
-    
+    <main class="main">
+    <?= $contenido ?>
+    </main>
 </body>
 </html>
